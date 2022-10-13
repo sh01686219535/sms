@@ -5,7 +5,7 @@
 @section('content')
     <div class="row">
         <div class="col-xl-9 mx-auto">
-            <h6 class="mb-0 text-uppercase">Course Form</h6>
+            <h6 class="mb-0 text-uppercase">Course Add Form</h6>
             <hr/>
             @if($errors->any())
                 <div class="alert alert-danger">
